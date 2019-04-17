@@ -30,9 +30,10 @@
  game replicated server_can_execute lua_server
  - Added duration per each survivors. (in seconds)
 
-"slashers_duration_base" = "67.500000" ( def. "67.5" )
+"slashers_duration_base" = "300.500000" ( def. "67.5" )
  game replicated server_can_execute lua_server
  - Initial round duration. (in seconds)
+ 
 
 "slashers_round_min_player" = "3"
  game replicated server_can_execute lua_server
